@@ -1,3 +1,6 @@
+//income tax calculation
+
+
 import java.util.Scanner;
 class Inc
 {
